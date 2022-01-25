@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  平平淡淡、轰轰烈烈！每天进步一点点！靠近梦想多一点！
 
 <!--
 **zty-f/zty-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
