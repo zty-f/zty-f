@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 #### 知识库系统：http://wiki.zty-f.fun
 
 #### 订单管理系统：http://smbms.zty-f.fun
-假如你想登录的话：admin 123456
  
 全套笔记地址：https://download.csdn.net/download/qq_50660356/25708012?spm=1001.2014.3001.5503
