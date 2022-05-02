@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zty-f&show_icons=true&theme=radical)
+#### 个人博客：https://zty-f.github.io/
+
 #### 知识库系统：http://wiki.zty-f.fun
 
 #### 商品秒杀系统：http://seckill.zty-f.fun
