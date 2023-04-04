@@ -1,5 +1,5 @@
 ### Hi there 👋  平平淡淡、轰轰烈烈！每天进步一点点！靠近梦想多一点！
-![zty-f's GitHub stats](https://github-readme-stats.vercel.app/api?username=zty-f&show_icons=true&theme=radical&include_all_commits=true)
+![zty-f's GitHub stats](https://github-readme-stats.vercel.app/api?username=zty-f&show_icons=true&theme=radical)
 #### 个人博客：https://www.zty-f.fun
 
 #### 大学生家教一体化平台：https://tutor.zty-f.fun
