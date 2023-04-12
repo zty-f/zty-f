@@ -10,6 +10,6 @@
 
 #### 超市后台管理系统：http://smbms.zty-f.fun
 
-#### 股票可视化（大数据作业）：http://stock.zty-f.fun/
+#### 股票可视化（大数据作业）：http://stock.zty-f.fun/ 【数据接口已失效~】
  
 全套笔记地址：https://download.csdn.net/download/qq_50660356/25708012?spm=1001.2014.3001.5503
