@@ -2,7 +2,7 @@
 ![zty-f's GitHub stats](https://github-readme-stats.vercel.app/api?username=zty-f&show_icons=true&theme=radical)
 ### 双非就业互助q裙：697737224
 
-## 互帮互助,各大互联网公司/国企/银行投递渠道/简历修改：http://study.zty-f.fun 
+### 互帮互助,各大互联网公司/国企/银行投递渠道/简历修改：http://study.zty-f.fun 
 
 #### 个人博客：https://www.zty-f.fun
 
