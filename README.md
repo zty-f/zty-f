@@ -4,7 +4,7 @@
 
 ### 互帮互助,各大互联网公司/国企/银行投递渠道/简历修改：http://study.zruler.fun 
 
-#### 个人博客：[http://www.zruler.fun](https://www.zruler.fun/)
+#### 个人博客：[https://www.zruler.fun](https://www.zruler.fun/)
 
 #### 大学生家教一体化平台：http://tutor.zruler.fun
 
