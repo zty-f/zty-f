@@ -6,4 +6,9 @@
 
 #### 个人博客：[https://www.zruler.fun](https://www.zruler.fun/)
 
+#### 参与开源项目：
+https://www.mossx.ai/
 
+https://github.com/zhukunpenglinyutong/desktop-cc-gui
+
+https://github.com/zhukunpenglinyutong/jetbrains-cc-gui
